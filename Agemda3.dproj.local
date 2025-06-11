@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/07 14:07:02.000.448,=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 14:07:57.000.215,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Agenda3.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/06/07 14:07:57.000.215,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Agenda3.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 14:08:41.000.185,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\AgPrincipal.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Agenda3.dfm</Transaction>
+    <Transaction>2018/06/07 14:08:41.000.185,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\AgPrincipal.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Agenda3.pas</Transaction>
+    <Transaction>2018/06/07 14:08:48.000.731,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agemda3.dproj=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/06/07 14:10:32.000.506,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Agemda3.dproj=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agemda3.dproj</Transaction>
+    <Transaction>2018/06/07 14:14:03.000.051,=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 14:14:36.000.916,=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 14:14:53.000.661,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgPrincipal.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\AgPrincipal.pas</Transaction>
+    <Transaction>2018/06/07 14:14:53.000.661,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgPrincipal.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\AgPrincipal.dfm</Transaction>
+    <Transaction>2018/06/07 14:15:31.000.357,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\dmAgenda.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.dfm</Transaction>
+    <Transaction>2018/06/07 14:15:31.000.357,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\dmAgenda.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 14:16:00.000.772,=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit2.pas</Transaction>
+    <Transaction>2018/06/07 14:16:31.000.925,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgendamento.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit2.dfm</Transaction>
+    <Transaction>2018/06/07 14:16:31.000.925,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgendamento.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit2.pas</Transaction>
+    <Transaction>2018/06/07 14:16:44.000.173,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untCalendario.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgPrincipal.pas</Transaction>
+    <Transaction>2018/06/07 14:16:44.000.173,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untCalendario.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgPrincipal.dfm</Transaction>
+    <Transaction>2018/06/07 17:54:45.000.979,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgenda.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untCalendario.pas</Transaction>
+    <Transaction>2018/06/07 17:54:45.000.979,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untAgenda.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untCalendario.dfm</Transaction>
+    <Transaction>2018/06/21 15:18:02.000.169,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untDmAgenda.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\dmAgenda.pas</Transaction>
+    <Transaction>2018/06/21 15:18:02.000.169,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untDmAgenda.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\dmAgenda.dfm</Transaction>
+    <Transaction>2018/06/21 15:18:23.000.097,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\DmAgenda.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untDmAgenda.dfm</Transaction>
+    <Transaction>2018/06/21 15:18:23.000.097,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\DmAgenda.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untDmAgenda.pas</Transaction>
+    <Transaction>2018/12/03 16:00:40.000.353,=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.pas</Transaction>
+    <Transaction>2018/12/03 16:01:25.000.284,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untPesquisaCliente.dfm=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.dfm</Transaction>
+    <Transaction>2018/12/03 16:01:25.000.284,C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\untPesquisaCliente.pas=C:\Users\efraim.souza\Documents\Embarcadero\Studio\Projects\Agenda3\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DmAgenda.pas"/>
+    <File Path="DmAgenda.dfm"/>
+    <File Path="untAgenda.pas"/>
+    <File Path="untAgenda.dfm"/>
+    <File Path="untAgendamento.pas"/>
+    <File Path="untAgendamento.dfm"/>
+    <File Path="untPesquisaCliente.pas"/>
+    <File Path="untPesquisaCliente.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
