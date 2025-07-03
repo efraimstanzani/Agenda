@@ -5,10 +5,10 @@ object frmDmAgenda: TfrmDmAgenda
   object Connection_Agenda: TADOConnection
     Connected = True
     ConnectionString = 
-      'Provider=SQLOLEDB.1;Password=39246100;Persist Security Info=True' +
-      ';User ID=gpsi;Initial Catalog=gpsi;Data Source=192.168.0.12;Use ' +
+      'Provider=SQLOLEDB.1;Password=******;Persist Security Info=True' +
+      ';User ID=gpsi;Initial Catalog=gpsi;Data Source=192.168.***.***;Use ' +
       'Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Wor' +
-      'kstation ID=DESKTOP-C3JCSL2;Use Encryption for Data=False;Tag wi' +
+      'kstation ID=*******;Use Encryption for Data=False;Tag wi' +
       'th column collation when possible=False'
     LoginPrompt = False
     Provider = 'SQLOLEDB.1'
